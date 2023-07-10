@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: juan-jones/jekyll-theme-rawposts # Path to your GitHub repository
-  branch: master # Branch to update (master by default)
+  branch: main # Branch to update (master by default)
   site_domain: https://dejjon.nelify.app #Your site on netlify
   use_graphql: true
 
